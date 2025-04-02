@@ -1,4 +1,4 @@
-##Olá, recrutadores! 👋
+# Olá, recrutadores! 👋
 
 Sejam bem-vindos ao meu GitHub! Sou um entusiasta da programação em busca da minha primeira oportunidade no mercado de tecnologia.
 
